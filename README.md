@@ -4,13 +4,13 @@ A Python library to get your server's public IP address directly from system net
 
 ## Features
 
-- 🚀 **Zero external requests** - Works completely offline
-- 🔍 **Multi-platform support** - Linux, Windows, macOS
-- 📡 **All network interfaces** - Discover all public IPs on the server
-- 🛡️ **Private IP detection** - Automatically filters out private/local IPs
-- 💻 **CLI included** - Use from command line
-- 📊 **Comprehensive info** - Get interface details, MAC addresses, status
-- 🔄 **Multiple fallback methods** - Uses different techniques for reliability
+ **Zero external requests** - Works completely offline
+ **Multi-platform support** - Linux, Windows, macOS
+ **All network interfaces** - Discover all public IPs on the server
+ **Private IP detection** - Automatically filters out private/local IPs
+ **CLI included** - Use from command line
+ **Comprehensive info** - Get interface details, MAC addresses, status
+ **Multiple fallback methods** - Uses different techniques for reliability
 
 ## Installation
 

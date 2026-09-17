@@ -137,11 +137,10 @@ Perfect for:
 - **Cloud instances** - Get public IP without cloud provider APIs
 
 ## Platform Support
-
-- ✅ **Linux** - Full support with multiple detection methods
-- ✅ **Windows** - Full support via ipconfig parsing
-- ✅ **macOS** - Full support via ifconfig parsing  
-- ✅ **Other Unix-like** - Basic support via socket methods
+ **Linux** - Full support with multiple detection methods
+ **Windows** - Full support via ipconfig parsing
+ **macOS** - Full support via ifconfig parsing  
+ **Other Unix-like** - Basic support via socket methods
 
 ## Data Classes
 
